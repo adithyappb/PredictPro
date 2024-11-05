@@ -1,0 +1,9 @@
+azure-ml-sdk
+azure-storage-file-datalake
+pandas
+torch
+azure-synapse
+databricks-api
+jupyter
+numpy
+scikit-learn

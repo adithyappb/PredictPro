@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Azure configuration files
+*.yaml
+
+# Data files
+data/raw/
+data/processed/
+
+# Virtual environment
+venv/
